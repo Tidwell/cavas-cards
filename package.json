@@ -1,0 +1,9 @@
+{
+  "name": "canvas-cards",
+  "version": "0.0.1",
+  "description": "renders cards through canvas",
+  "author": "Aaron Tidwell <aaron.tidwell@example.org>",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
